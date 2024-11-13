@@ -1,5 +1,5 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
+<h1 align="center">Hi 👋, I'm Raghav Jindal</h1>
   <a href="https://git.io/typing-svg">
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" /></a>
 <h3 align="center">A passionate FullStack Developer from India</h3>
@@ -11,22 +11,22 @@
 
 - 🔭 I’m currently working on **Api application**
 
-- 👯 I’m currently  collaborating on **bluestock team**
+- 👯 currently SDE Intern at **Corteva**
 
-- 👨‍💻 All of my projects are available at [https://aman-portfolio-omega.vercel.app/](https://aman-portfolio-omega.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://raghavjindal.netlify.app/)
 
-- 💬 Ask me about **java,oops,react,node.js,express,mongoDB,postgreSQL,AI tools**
+- 💬 Ask me about **java,oops,reactjs,angular,node.js,express,mongoDB,postgreSQL,AI tools**
 
-- 📫 How to reach me **singha0391@gmail.com**
+- 📫 How to reach me **raghavjindal345.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk](https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk)
 
 - ⚡ Fun fact  **I am funny 😁 **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aman-singh-119499225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-singh-119499225" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raghav-jindal-605305217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-singh-119499225" height="30" width="40" /></a>
 <a href="https://fb.com/aman thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman thakur" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bhaiiya_ji_smile/?igsh=ZzRzOG1keGhzdzky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaiyajiismile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raghav_jindall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaiyajiismile" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amanakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanacer" height="30" width="40" /></a>
 </p>
 
