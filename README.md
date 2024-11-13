@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **raghavjindal345.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk](https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WlED0XbcVNLCL1q2I4-uWCFQxn3ni37C/view?usp=drive_link)
 
 - ⚡ Fun fact  **I am funny 😁 **
 <h3 align="left">Connect with me:</h3>
