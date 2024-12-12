@@ -21,7 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WlED0XbcVNLCL1q2I4-uWCFQxn3ni37C/view?usp=drive_link)
 
-- ⚡ Fun fact  **I am funny 😁 **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raghav-jindal-605305217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-singh-119499225" height="30" width="40" /></a>
